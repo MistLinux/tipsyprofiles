@@ -1,0 +1,13 @@
+{
+	"winetricks": "20180603",
+	"wine": {
+		"url":"",
+		"version":""
+	},
+	"wine-stageing":{
+		"url":"",
+		"version":""
+	}
+
+
+}
